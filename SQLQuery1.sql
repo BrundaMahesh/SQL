@@ -30,9 +30,9 @@ go
 
 --alter table StudentPD rename column mob_no to mobilenumber;
 
---truncate table StudentPD;
+truncate table StudentPD;
 
---drop table StudentPD;
+drop table StudentPD;
 
 
 
