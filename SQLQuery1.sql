@@ -39,5 +39,7 @@ select * from StudentPD;
 
 update StudentPD set mob_no=8948887846 where rollno=104;
 
+delete StudentPD where mob_no = 8948887846;
+
 
 
