@@ -1,0 +1,44 @@
+Assignment:
+Grafana Dashboard Creation
+
+Objective:
+Create a Grafana dashboard that visualizes data from a CSV data source. (https://media.githubusercontent.com/media/datablist/sample-csv-files/main/files/organizations/organizations-100.csv).  The dashboard should include multiple panels with different types of visualizations.
+
+Tasks:
+Setting up the Environment:
+Install Grafana on your local machine or use an online Grafana instance.
+Launch Grafana and log in to the Grafana web interface.
+
+Add a CSV Data Source:
+Add a CSV data source to Grafana.
+Configure the data source to point to a sample CSV file.
+
+Create a Dashboard:
+Create a new dashboard in Grafana.
+Configure the dashboard with a suitable title and layout.
+
+Add Panels:
+Add multiple panels to the dashboard.
+Each panel should represent a different visualization type (e.g., graph, table, gauge).
+
+Configure Visualizations:
+Configure each panel to use the CSV data source.
+Customize the visualizations based on the data in the CSV file.
+
+Implement Interactivity:
+Implement interactivity within the dashboard.
+For example, add a time range selector or dropdown to filter data.
+
+Explore Different Visualization Types:
+Experiment with various visualization types offered by Grafana.
+Include at least one time-series graph and one tabular visualization.
+
+Save and Share:
+Save your dashboard in Grafana.
+Generate a shareable link or screenshot of your dashboard.
+
+Submission:
+Submit a document containing the following:
+Screenshots of your Grafana dashboard.
+A brief explanation of each panel and the visualization type used.
+Any challenges faced during the assignment and how you overcame them.
